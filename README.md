@@ -1,1 +1,1 @@
-# githubacctions
+# GitHub Actions
